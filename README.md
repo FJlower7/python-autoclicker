@@ -4,7 +4,7 @@ Application does reproduce a mouse click on a key press.
 # Description
 Activation of the left mouse button when a certain key is pressed.
 I'm used Python 3.7.3 and PIP 23.3.1
-In future, I'm hope to implement a keylistener, keybinds, changable CPS, well comandline user interface, GUI based on XML, readable configure file, switchable key pressed mode.
+In future, I'm hope to implement a keylistener, keybinds, changable CPS, well comandline user interface, GUI based on XML, readable configure file, switchable key pressed mode and switchable user interface by startup arguments.
 # Install and Run
 To run the program you need to install [pywin32](https://pypi.org/project/pywin32/) on your environment:
 ```
